@@ -1,0 +1,71 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Debug\Lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4.map</FILE>
+  <FILE>Lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>40</LINE></INIT>
+  <MAIN><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>53</LINE></MAIN>
+  <loadADD16><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>100</LINE></loadADD16>
+  <ADD16><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>127</LINE></ADD16>
+  <loadSUB16><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>186</LINE></loadSUB16>
+  <SUB16><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>212</LINE></SUB16>
+  <loadMUL24><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>270</LINE></loadMUL24>
+  <MUL24><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>303</LINE></MUL24>
+  <loadCOMPOUND><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>381</LINE></loadCOMPOUND>
+  <COMPOUND><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>424</LINE></COMPOUND>
+  <DONE><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>88</LINE></DONE>
+  <OperandA><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>648</LINE></OperandA>
+  <ADD16_OP1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>689</LINE></ADD16_OP1>
+  <OperandB><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>650</LINE></OperandB>
+  <ADD16_OP2><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>691</LINE></ADD16_OP2>
+  <ADD16_Result><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>695</LINE></ADD16_Result>
+  <EXIT><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>166</LINE></EXIT>
+  <OperandC><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>654</LINE></OperandC>
+  <SUB16_OP1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>699</LINE></SUB16_OP1>
+  <OperandD><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>656</LINE></OperandD>
+  <SUB16_OP2><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>701</LINE></SUB16_OP2>
+  <SUB16_Result><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>705</LINE></SUB16_Result>
+  <OperandE1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>660</LINE></OperandE1>
+  <MUL24_OP1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>709</LINE></MUL24_OP1>
+  <OperandE2><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>662</LINE></OperandE2>
+  <OperandF1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>664</LINE></OperandF1>
+  <MUL24_OP2><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>711</LINE></MUL24_OP2>
+  <OperandF2><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>666</LINE></OperandF2>
+  <MUL24_Result><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>715</LINE></MUL24_Result>
+  <MUL24_OLOOP><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>331</LINE></MUL24_OLOOP>
+  <MUL24_ILOOP><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>338</LINE></MUL24_ILOOP>
+  <OperandG><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>670</LINE></OperandG>
+  <OperandH><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>672</LINE></OperandH>
+  <OperandI><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>674</LINE></OperandI>
+  <EXIT1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>485</LINE></EXIT1>
+  <COMPOUND_Result><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>719</LINE></COMPOUND_Result>
+  <MUL24_OLOOP1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>498</LINE></MUL24_OLOOP1>
+  <MUL24_ILOOP1><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>505</LINE></MUL24_ILOOP1>
+  <MUL16><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>556</LINE></MUL16>
+  <addrB><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>683</LINE></addrB>
+  <LAddrP><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>684</LINE></LAddrP>
+  <MUL16_OLOOP><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>583</LINE></MUL16_OLOOP>
+  <addrA><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>682</LINE></addrA>
+  <MUL16_ILOOP><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>590</LINE></MUL16_ILOOP>
+  <FUNC><FILE>C:\Users\bwarr\Downloads\OSU Fall 2022\ECE 375\Lab4\Lab4\Lab4\Benjamin_Warren_Lab4_sourcecode.asm</FILE><LINE>634</LINE></FUNC>
+ </LABELS>
+</ASSEMBLER_INFO>
